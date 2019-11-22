@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Browse entries</title>
+    </head>
+<body>
+    <h1>Browse entries</h1>
+    {% for entry in entries %}
+        Title: {{ entry.title }}<br>
+        Date: {{ entry.date }}<br>
+        Content: {{ entry.content }}<p>
+    {% else %}
+        This blog is empty.
+    {% endfor %}
+</body>
+</html>

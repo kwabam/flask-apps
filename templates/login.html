@@ -1,0 +1,70 @@
+<head>
+<style>
+body {
+    background-color: white;
+}
+a { 
+    text-decoration: none; 
+    }
+ .bt {
+     text-align: center;
+    }
+h1 {
+    border: 5px solid #e35f2a;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+     padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    color:#e35f2a;
+}
+button {
+    font-family: "Arial", sans-serif;
+    background-color:white;
+    text-align: center;
+    color:#000000;
+    border: 5px solid #e35f2a;
+    padding: 15px 35px;
+    /*display: block;
+    margin:0 auto; */
+    }
+button:hover {
+    background-color: #e35f2a;
+    color: #FFFFFF;
+    }
+p {
+    border: 5px solid #e35f2a;
+    font-family: "Arial", sans-serif;
+    color:#000000;
+    text-align:center;
+     padding-right: 30px;
+     padding-left: 30px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    }
+ img {
+     padding-top: 25px;
+     padding-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+ }
+</style>
+</head>
+<body>
+<script>
+    function validate() {
+          if( document.getElementById("password").value == "" && document.getElementById("username").value == "") {
+                window.location.assign("home");
+          }
+        
+    }
+</script>
+<h1>newdle</h1>
+<form>
+      <input id="username" type="text" name="username" placeholder="Username">
+      <input id="password" type="password" name="password" placeholder="Password">
+    </form>
+    <button type="button" onclick="validate()"> <b>submit</b> </button>

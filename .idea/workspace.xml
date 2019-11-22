@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f45ccaf2-24b2-4172-9d46-8f67ed4b002b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../141/PerpetualCalendar/.idea/PerpetualCalendar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/PerpetualCalendar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/PerpetualCalendar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/PerpetualCalendar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/PerpetualCalendar/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/candidate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/format_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/pyproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/_in_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/envbuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/easy_install-3.8-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/easy_install-3.8.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/easy_install.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip3.8-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip3.8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip3.8.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pip3.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../141/StrangeGarden/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/8-Puzzle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/dictionaries/kw169.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/Board.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/Board.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/Solver.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/Solver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/Solver_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-unsolvable1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-unsolvable2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle2x2-unsolvable3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-unsolvable.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-unsolvable1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle3x3-unsolvable2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle4x4-unsolvable.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/data/puzzle50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/8-Puzzle/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Autocomplete/Autocomplete.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/.idea/Percolation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Percolation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Percolation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Percolation.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/PercolationStats_test.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Percolation_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Percolation_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/Percolation_test.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/QuickFindUF_test.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/WeightedQuickUnionUF_test.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/greeting57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/greeting57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/heart25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/heart25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input1-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input1-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input10-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input10-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input2-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input2-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input8-dups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input8-dups.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input8-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input8-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/jerry47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/jerry47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/largeUF.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/mediumUF.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/output10-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/output10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/output8-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/output8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/outputStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/sedgewick60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/sedgewick60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/snake101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/snake101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/snake13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/snake13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/tinyUF.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/wayne98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/data/wayne98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/draw.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/draw.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/percolationTester.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/percolationVisualizer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/percolationVisualizer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/Percolation/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/queueing/LinkedStack_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/queueing/LinkedStack_test.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/queueing/ResizingArrayStack_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../241/queueing/ResizingArrayStack_test.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141/StrangeGarden/.idea/StrangeGarden.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../141/StrangeGarden/.idea/StrangeGarden.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141/StrangeGarden/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../141/StrangeGarden/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141/StrangeGarden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../141/StrangeGarden/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141/StrangeGarden/Garden.py" beforeDir="false" afterPath="$PROJECT_DIR$/../141/StrangeGarden/Garden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141/simplegraphics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../141/simplegraphics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../142/filter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../142/filter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../241/Autocomplete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../241/Autocomplete/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../241/War/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../241/War/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../241/autocomplete-sowell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../241/autocomplete-sowell/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../241/queueing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../241/queueing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../241/queueing/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../241/queueing/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../241/queueing/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../241/queueing/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../330/Paging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../330/Paging/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../330/chatserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../330/chatserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../330/multichatclient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../330/multichatclient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../355/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../355/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/flask_apps$sample.coverage" NAME="sample Coverage Results" MODIFIED="1570723819120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_apps$flask_apps.coverage" NAME="flask-apps Coverage Results" MODIFIED="1574399994367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_apps$populate.coverage" NAME="populate Coverage Results" MODIFIED="1574400886397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Populate" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newdle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="99" column="34" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="99" selection-end-column="34" />
+              <folding>
+                <element signature="e#26#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Populate/profs.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Populate/populate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-836">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Populate/enrolled.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="33" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/course.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/homepage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dayview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/browse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>link</find>
+      <find>student</find>
+      <find>Link to course</find>
+      <find>references</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>course</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sample.py" />
+        <option value="$PROJECT_DIR$/first/sample.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/browse.html" />
+        <option value="$PROJECT_DIR$/templates/newdle.html" />
+        <option value="$PROJECT_DIR$/templates/newdle3.html" />
+        <option value="$PROJECT_DIR$/templates/course.html" />
+        <option value="$PROJECT_DIR$/templates/homepage.html" />
+        <option value="$PROJECT_DIR$/newdle.py" />
+        <option value="$PROJECT_DIR$/Populate/enrolled.py" />
+        <option value="$PROJECT_DIR$/Populate/populate.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1390" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1TzWB6mY59LnFmtd2glfpzCiVvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flask-apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask-apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask-apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask-apps" type="462c0819:PsiDirectoryNode" />
+              <item name="Populate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask-apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask-apps" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.populate">
+    <configuration name="populate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask-apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Populate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Populate/populate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask-apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask-apps" type="Python.FlaskServer">
+      <module name="flask-apps" />
+      <option name="target" value="$PROJECT_DIR$/newdle.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.flask-apps" />
+      <item itemvalue="Python.populate" />
+      <item itemvalue="Python.sample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.populate" />
+        <item itemvalue="Python.sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45ccaf2-24b2-4172-9d46-8f67ed4b002b" name="Default Changelist" comment="" />
+      <created>1570723539134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570723539134</updated>
+      <workItem from="1570723540334" duration="889000" />
+      <workItem from="1570724498028" duration="185000" />
+      <workItem from="1570724711764" duration="1268000" />
+      <workItem from="1570740731538" duration="442000" />
+      <workItem from="1574385745910" duration="15323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18107000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="31" width="1853" height="1049" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26488593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/first/sample.py" />
+    <entry file="file://$PROJECT_DIR$/browse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Populate/Assignments.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Populate/profs.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Populate/enrolled.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Populate/populate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newdle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="99" column="34" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="99" selection-end-column="34" />
+          <folding>
+            <element signature="e#26#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dayview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
