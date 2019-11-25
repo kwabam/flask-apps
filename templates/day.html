@@ -1,0 +1,74 @@
+<head>
+<style>
+body {
+    background-color: white;
+}
+a { 
+    text-decoration: none; 
+    }
+ .bt {
+     text-align: center;
+    }
+h1 {
+    border: 5px solid #e35f2a;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+     padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    color:#e35f2a;
+}
+
+button {
+    font-family: "Arial", sans-serif;
+    background-color:white;
+    text-align: center;
+    color:#000000;
+    border: 5px solid #e35f2a;
+    padding: 15px 35px;
+    /*display: block;
+    margin:0 auto; */
+    }
+button:hover {
+    background-color: #e35f2a;
+    color: #FFFFFF;
+    }
+
+p {
+
+    font-family: "Arial", sans-serif;
+    color:#000000;
+    text-align:center;
+     padding-right: 30px;
+     padding-left: 30px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    }
+ img {
+     padding-top: 25px;
+     padding-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+ }
+</style>
+</head>
+<body>
+
+<h1>newdle</h1>
+
+<p>
+    {% for entry in studentinfo %}
+
+        Topic: {{ entry[2] }}<br>
+        Description: {{ entry[3] }}<br>
+        Content: {{ entry[1] }}<br>
+        <br>
+    {% else %}
+        This blog is empty.
+    {% endfor %}
+</p>
+</body>
+</html>

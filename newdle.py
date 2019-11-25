@@ -79,13 +79,15 @@ def login():
     return render_template("login.html")
 
 
-@app.route('/home')
+@app.route('/home',methods=['GET', 'POST'])
 def home():
     db = get_db()
     cursor = db.cursor()
-    cursor.execute("""
-            select * from lectures where crn = 
-        """)
+
+
+    # cursor.execute("""
+    #         select * from lectures where crn =
+    #     """)
     # days = []
     # year = "2019"
     # month = "9"
@@ -103,14 +105,21 @@ def home():
 
 @app.route('/day')
 def day():
-    db=get_db()
-    cursor=db.cursor()
-    cursor.execute("""
-        select * from lectures where lecturedate = '2019-03-14'
-    """)
+    db = get_db()
+    cursor = db.cursor()
+    year = "2019"
+    month = "09"
+    day = 1
+    if day < 10:
+        s_day = "0" + str(day)
+    else:
+        s_day = str(day)
+    ymd = year + "-" + month + "-" + s_day
+    cursor.execute("select * from lectures where lecturedate = '{0}'".format(ymd))
     rowList = cursor.fetchall()
     print(rowList)
-    return render_template("dayview.html", studentinfo=rowList)
+    return render_template("day.html", studentinfo=rowList)
+
 
 @app.route('/course')
 def course():

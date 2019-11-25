@@ -1,4 +1,4 @@
-#!/home/kevin/RhodesCS/flask-apps/venv/bin/python
+#!/home/kevin/flask-apps/venv/bin/python3.6
 
 # -*- coding: utf-8 -*-
 import re
